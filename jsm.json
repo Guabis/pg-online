@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "https://guabis.github.io/pg-online/pg.jar",
   "sites": [
     {
       "key": "豆瓣",
@@ -9,7 +9,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/tokenm.json$$$./lib/douban.json"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/douban.json"
     },
     {
       "key": "网盘配置",
@@ -18,7 +18,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -34,8 +34,8 @@
       "changeable": 0,
       "timeout": 120,
       "ext": {
-        "token": "./lib/tokenm.json",
-        "json": "./lib/youtube.json",
+        "token": "https://guabis.github.io/pg-online/lib/tokenm.json",
+        "json": "https://guabis.github.io/pg-online/lib/youtube.json",
         "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
         "codecs": "",
@@ -77,7 +77,7 @@
       "timeout": 60,
       "playerType": 2,
       "ext": {
-        "token": "./lib/tokenm.json",
+        "token": "https://guabis.github.io/pg-online/lib/tokenm.json",
         "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
         "cookie": ""
       },
@@ -93,7 +93,7 @@
       "api": "csp_PingLian",
       "searchable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.pinglian.lol$$$$$$0$$$$$$PANLIAN$$$USER$$$PASS"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.pinglian.lol$$$$$$0$$$$$$PANLIAN$$$USER$$$PASS"
     },
     {
       "key": "csp_Qwmp4",
@@ -104,7 +104,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.qwmp4.com/$$$noproxy$$$0$$$$$QIWEI"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.qwmp4.com/$$$noproxy$$$0$$$$$QIWEI"
     },
     {
       "key": "zmi",
@@ -115,7 +115,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.wn4k.com/$$$noproxy$$$1$$$$$$WONIU$$$USER$$$PASS$$$./lib/woniu.txt"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.wn4k.com/$$$noproxy$$$1$$$$$$WONIU$$$USER$$$PASS$$$https://guabis.github.io/pg-online/lib/woniu.txt"
     },
     {
       "key": "Mogg",
@@ -126,7 +126,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/wogg.json$$$MOGG"
     },
     {
       "key": "PanSouGo",
@@ -138,7 +138,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": {
-        "token": "./lib/tokenm.json",
+        "token": "https://guabis.github.io/pg-online/lib/tokenm.json",
         "siteurl": "",
         "proxy": "noproxy",
         "danmu": "0",
@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": {
-        "token": "./lib/tokenm.json",
+        "token": "https://guabis.github.io/pg-online/lib/tokenm.json",
         "page_size": 40,
         "tmdb_key": "2894d9a1baf7812b451de03c801b0281",
         "tmdb_api": "https://api.tmdb.org",
@@ -180,7 +180,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://jying.top/$$$noproxy$$$1$$$./lib/huamucang.txt$$$HUAMUCANG$$$USER$$$PASS"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://jying.top/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/huamucang.txt$$$HUAMUCANG$$$USER$$$PASS"
     },
     {
       "key": "Guanying",
@@ -191,7 +191,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.xn--74qz10cqsltibh40akss.com/$$$proxy$$$1$$$./lib/guanying.txt$$$GUANYING$$$username$$$password"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.xn--74qz10cqsltibh40akss.com/$$$proxy$$$1$$$https://guabis.github.io/pg-online/lib/guanying.txt$$$GUANYING$$$username$$$password"
     },
     {
       "key": "FourKZN",
@@ -202,7 +202,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://4kzn.cc/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://4kzn.cc/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/4kzn.txt$$$4KZN"
     },
     {
       "key": "校长影视",
@@ -213,7 +213,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
     },
     {
       "key": "Wogg",
@@ -224,7 +224,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/wogg.json$$$WOGG"
     },
     {
       "key": "Hjzc",
@@ -235,7 +235,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$./lib/wogg.json$$$HJZC"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/wogg.json$$$HJZC"
     },
     {
       "key": "Mipan",
@@ -246,7 +246,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json"
     },
     {
       "key": "Hdhive",
@@ -257,7 +257,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$https://re0.me$$$proxy$$$1$$$./lib/hdhive.txt$$$HDHIVE$$$USER$$$PASS"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://re0.me$$$proxy$$$1$$$https://guabis.github.io/pg-online/lib/hdhive.txt$$$HDHIVE$$$USER$$$PASS"
     },
     {
       "key": "HDHaven",
@@ -268,7 +268,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$https://hdhaven.com$$$proxy$$$1$$$./lib/hdhaven.txt$$$hdhaven$$$USER$$$PASS"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://hdhaven.com$$$proxy$$$1$$$https://guabis.github.io/pg-online/lib/hdhaven.txt$$$hdhaven$$$USER$$$PASS"
     },
     {
       "key": "蜡笔网盘",
@@ -279,7 +279,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://xiaocgege.shop/$$$proxy$$$1$$$./lib/wogg.json$$$LABI"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://xiaocgege.shop/$$$proxy$$$1$$$https://guabis.github.io/pg-online/lib/wogg.json$$$LABI"
     },
     {
       "key": "至臻|网盘",
@@ -290,7 +290,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/wogg.json$$$ZHIZHEN"
     },
     {
       "key": "LIBVIO",
@@ -301,7 +301,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.libvio.to/$$$noproxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.libvio.to/$$$noproxy$$$1"
     },
     {
       "key": "Moli",
@@ -312,7 +312,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.hdmoli.com/$$$noproxy$$$1$$$./lib/moli.json"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.hdmoli.com/$$$noproxy$$$1$$$https://guabis.github.io/pg-online/lib/moli.json"
     },
     {
       "key": "HongGuo",
@@ -346,7 +346,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
     },
     {
       "key": "WebDAV",
@@ -358,7 +358,7 @@
       "changeable": 1,
       "timeout": 60,
       "playerType": 2,
-      "ext": "./lib/webdav.json"
+      "ext": "https://guabis.github.io/pg-online/lib/webdav.json"
     },
     {
       "key": "AList",
@@ -370,7 +370,7 @@
       "changeable": 1,
       "timeout": 60,
       "playerType": 2,
-      "ext": "./lib/alistjar.json"
+      "ext": "https://guabis.github.io/pg-online/lib/alistjar.json"
     },
     {
       "key": "PushShare",
@@ -382,7 +382,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/pushshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -398,7 +398,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$null$$$proxy$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$null$$$proxy$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -414,7 +414,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -430,7 +430,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/alishare.ebook.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -446,7 +446,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/quarkshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -462,7 +462,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/123share.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/123share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -478,7 +478,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/189share.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/189share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -494,7 +494,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/thundershare.txt",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/thundershare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -510,7 +510,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/ucshare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -526,7 +526,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 120,
-      "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/115share.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -542,7 +542,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/pikpakclass.json$$$https://guabis.github.io/pg-online/lib/pikpakclass.json.txt.gz",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -558,7 +558,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/sambashare.txt"
     },
     {
       "key": "TianYiSou",
@@ -569,7 +569,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$null$$$proxy"
     },
     {
       "key": "YunPan",
@@ -577,7 +577,7 @@
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$null$$$proxy$$$1"
     },
     {
       "key": "YingSo",
@@ -585,7 +585,7 @@
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json"
     },
     {
       "key": "混合盘",
@@ -593,7 +593,7 @@
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -605,7 +605,7 @@
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://662688.xyz$$$",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://662688.xyz$$$",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -620,7 +620,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$null$$$proxy"
     },
     {
       "key": "盘友圈",
@@ -628,7 +628,7 @@
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$site$$$proxy"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$site$$$proxy"
     },
     {
       "key": "易搜",
@@ -636,7 +636,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://guabis.github.io/pg-online/lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -648,7 +648,7 @@
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -663,7 +663,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -678,7 +678,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -693,7 +693,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$./lib/panta.txt$$$PANTA",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$https://guabis.github.io/pg-online/lib/panta.txt$$$PANTA",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -708,7 +708,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
     },
     {
       "key": "PikaSo",
@@ -719,7 +719,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -734,7 +734,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://guabis.github.io/pg-online/lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -745,7 +745,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -760,7 +760,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$null$$$proxy$$$1"
     },
     {
       "key": "新6V",
@@ -770,7 +770,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.xb6v.com$$$null$$$1"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json$$$https://www.xb6v.com$$$null$$$1"
     },
     {
       "key": "索尼资源",
@@ -821,7 +821,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "timeout": 30,
-      "ext": "./lib/tokenm.json",
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -934,11 +934,11 @@
       "key": "drpy_js_Alist",
       "name": "网盘 | Alist[js]",
       "type": 3,
-      "api": "./lib/alist.min.js",
+      "api": "https://guabis.github.io/pg-online/lib/alist.min.js",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alist.json"
+      "ext": "https://guabis.github.io/pg-online/js/alist.json"
     },
     {
       "key": "酷狗",
@@ -963,7 +963,7 @@
       "api": "csp_Push",
       "changeable": 0,
       "timeout": 30,
-      "ext": "./lib/tokenm.json"
+      "ext": "https://guabis.github.io/pg-online/lib/tokenm.json"
     },
     {
       "key": "應用商店",
@@ -979,8 +979,8 @@
       "name": "🐼️┃电视┃直播",
       "type": 3,
       "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/feimaolive.json"
+      "api": "https://guabis.github.io/pg-online/lib/live2vod.js",
+      "ext": "https://guabis.github.io/pg-online/lib/feimaolive.json"
     }
   ],
   "lives": [
@@ -999,7 +999,7 @@
     {
       "name": "BIPTV(IPV6,可回看)",
       "type": 0,
-      "url": "./lib/biptv.txt",
+      "url": "https://guabis.github.io/pg-online/lib/biptv.txt",
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.cdn.loc.cc?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png"
@@ -1039,7 +1039,7 @@
     {
       "name": "YTB直播",
       "type": 0,
-      "url": "./lib/ytblive.m3u",
+      "url": "https://guabis.github.io/pg-online/lib/ytblive.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.cdn.loc.cc?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://cdn.jsdmirror.com/gh/fanmingming/live@master/tv/{name}.png"
