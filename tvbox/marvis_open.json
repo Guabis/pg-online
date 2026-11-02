@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/spider_open.txt;md5;e133d80fe19cf7e58798c524c4aa7bdb",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/spider_open.txt;md5;e133d80fe19cf7e58798c524c4aa7bdb",
   "wallpaper": "https://www.loliapi.com/acg/",
   "sites": [
     {
@@ -647,15 +647,15 @@
     {
       "name": "本地自建高清直播",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/live_iptv.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/live_iptv.m3u",
       "playerType": 2
     },
     {
       "name": "高清央视卫视",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     }
   ],
-  "token": "https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/token.json"
+  "token": "https://gh-proxy.com/https://raw.githubusercontent.com/Guabis/pg-online/main/tvbox/token.json"
 }
